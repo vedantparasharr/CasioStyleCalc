@@ -1,7 +1,7 @@
 # Casio Style Calculator
 
 A web-based calculator inspired by the classic Casio fx-82MS design, featuring a retro aesthetic with modern web technologies.
-
+ehehe
 ## Features
 
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division
