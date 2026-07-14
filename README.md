@@ -2,7 +2,7 @@
  
 A web-based calculator inspired by the classic Casio fx-82MS design, featuring a retro aesthetic with modern web technologies.
    
-## Features 
+## Features  
 
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division
 - **Keyboard Support**: Full keyboard functionality for faster calculations
